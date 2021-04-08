@@ -1,5 +1,5 @@
    function fefo(vvvv){    
-var file = DriveApp.getFileById('1tfFIvfMJ1I61l4DT8PH4xIcvHbf7agcq');
+var file = DriveApp.getFileById('1tfgfFIvfMJ1I61l4DT8PH4xIcvgrfgdfgfdHbf7agcq'); // dummy ID
 GmailApp.sendEmail('elhlawy@gmail.com', 'Software Developer', 'Please see the attached file.', 
 {
     attachments: [file.getAs(MimeType.PDF)],
