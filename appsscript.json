@@ -1,0 +1,18 @@
+{
+  "timeZone": "Africa/Cairo",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "javadevelopermohamedgmailcom",
+      "libraryId": "1l3t3cXDQiAH3yGGM4c29k0G2LSZgbqcV5zPPjit28yCfzk5hn1ZATtAm",
+      "version": "1",
+      "developmentMode": true
+    }, {
+      "userSymbol": "AceAlBastoniAPI",
+      "libraryId": "1WO-yRJROb3Bzkr1GQu5k-CosbLAV6kKWImtNpsefKa8-l3Sxdcyb7eAL",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
